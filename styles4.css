@@ -1,0 +1,15 @@
+.bg {
+    background-image: url(doberman.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.color{
+    color: rgba(84, 243, 217, 0.829);
+    text-align: left;
+    
+}
+.head{
+    text-align: center;
+}
